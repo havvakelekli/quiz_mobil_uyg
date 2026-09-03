@@ -1,6 +1,8 @@
 #Havva KELEKLİ tarafından geliştirilmiştir_demo
 # 📱 Ön Kabul Sınav Hazırlık - Quiz Mobil Uygulaması
 
+[![Uygulamayı İndir (APK)](https://img.shields.io/badge/📲_Uygulamayı_İndir_(APK)-v1.0.0-purple?style=for-the-badge)](https://github.com/havvakelekli/quiz_mobil_uyg/releases/tag/v1.0.0)
+
 **Geliştirici:** Havva Kelekli  
 **Teknolojiler:** Flutter, Dart, SharedPreferences, Material 3  
 **Platformlar:** Android, iOS, Web  

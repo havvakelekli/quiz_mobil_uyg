@@ -1,3 +1,4 @@
+#Havva KELEKLİ tarafından geliştirilmiştir_demo
 # 📱 Ön Kabul Sınav Hazırlık - Quiz Mobil Uygulaması
 
 **Geliştirici:** Havva Kelekli  
